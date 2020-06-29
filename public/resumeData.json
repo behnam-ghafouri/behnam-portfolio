@@ -49,30 +49,42 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Seneca College",
+        "degree":"Computer Programming and Analysis",
+        "graduated":"December 2019",
+        "description":"Advance Diploma Program GPA(3.9/4)"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Mazandaran University",
+        "degree":"Engineering",
+        "graduated":"Jan 2011",
+        "description":"Bachelor of Civil Engineering GPA(3.7/4)"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Ministry of Government & Consumer Services",
+        "title":"Full Stack Web Developer",
+        "years":"Jan 2020-current",
+        "description":"Member of the development team who add and edit features to the in house  applications in different frame works. Frame works are .NET, Angular and Nodejs.Usually supervisor adds the required features in the azure DevOps and based on daily meetings we must demo our progress. If the new module meets the required functionality then I send pull request for rechecking and merging it to the master branch.Task are usually about add or delete the SQL tables and then fix their relations to the new ones and old ones also store procedures."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Tajhiz-Farayand",
+        "title":".NET Developer",
+        "years":"Aug 2016 – Mar 2018",
+        "description":".Net server-side application with SQL database.Improve web application pages to be more convenience for data entry employees.Using ajax for dropdown lists them data entry employees could work without reload pages.Customise the application for every new project for deferent procedures and documentation"
+      },
+      {
+        "company":"Bushehr Petrochemical Co.",
+        "title":"Data Base Admin",
+        "years":"May 2014 – Jul 2016",
+        "description":"Import the Microsoft Excel packing lists of received material in refinery warehouse directly to MS-SQL Server Database which reduced the number of data entry employees.Design queries in Microsoft Access environment to create reports for warehouse management which significantly improved the efficiency of information retrieval and report generation."
+      },
+      {
+        "company":"Bushehr Petrochemical Co.",
+        "title":"Help Desk",
+        "years":"Jun 2013 – May 2014",
+        "description":"Support and troubleshoot Hardware/Software issues.Active directory support, managing group policy user policy applications"
       }
     ],
     "skills":[
